@@ -2,10 +2,10 @@
 It shortens the website URL.
 
 ## How to run the script
--Download the library using command pip install pyshorteners in command prompt.
+-Download the library using command **pip install pyshorteners** in command prompt.
+
 ## How it works
 - It takes the website URL as input. 
-
 - It shortens the given URL and returns the shortened URL.
 
 # Url Shortener
