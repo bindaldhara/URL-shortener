@@ -1,4 +1,4 @@
-<h1 align="center">URL Shortner</h1>
+<h1 align="left">URL Shortner</h1>
 It shortens the website URL.
 
 ## How to run the script
